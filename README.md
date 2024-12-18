@@ -12,3 +12,6 @@ Includes hover effects for buttons and images.
 Technologies Used
 HTML: For structuring the content.
 CSS: For styling and responsiveness.
+
+[Netflix Clone - GitHub Repository](https://github.com/GauravSinghRawat1/netflixclone)
+
